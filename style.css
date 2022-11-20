@@ -1,0 +1,17 @@
+body{
+  background-color: black
+}
+header{
+  background-color: gray
+}
+nav a{
+  font-size: 40px;
+  position: relative;
+  bottom: 100px;
+  right: 50%;
+}
+
+ul{
+  display: inline-flex;
+  margin-left: 50%;
+}
