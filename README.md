@@ -1,2 +1,3 @@
 #wilsonjoffre1A
-*em construção o mais F0D@
+
+O brabo dos brabos
